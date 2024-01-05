@@ -1,0 +1,7 @@
+NC_000004.12.fasta filter=lfs diff=lfs merge=lfs -text
+NC_000012.12.fasta filter=lfs diff=lfs merge=lfs -text
+NC_007136.7.fasta filter=lfs diff=lfs merge=lfs -text
+NC_041758.1.fasta filter=lfs diff=lfs merge=lfs -text
+NC_051339.1.fasta filter=lfs diff=lfs merge=lfs -text
+NC_052535.1.fasta filter=lfs diff=lfs merge=lfs -text
+NW_010224851.1.fasta filter=lfs diff=lfs merge=lfs -text

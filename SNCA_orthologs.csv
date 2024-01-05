@@ -1,0 +1,2 @@
+Gene ID,Gene symbol,Description,Scientific name,Common name,RefSeq Transcript accessions,RefSeq Protein accessions,SPARCLE ID,Curation Status,RefseqSelect,Default sequence
+6622,SNCA,synuclein alpha,Homo sapiens,human,NM_000345.4,NP_000336.1,10475760,curated,RefseqSelect,default-seq

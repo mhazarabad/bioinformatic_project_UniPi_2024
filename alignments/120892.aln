@@ -1,0 +1,22 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+NC_000012.12_human_genome       NFLQLLNILRNLTSNLFKMINLSKAPLRLALRVQPLHPVLPPAYMALSEM
+NW_010224851.1_bird_genome      -----MSVQMSSSAHLCLVLLSKCNPKYKFIYTFVLKGNYSINKWNLT-F
+NC_007136.7_fish_genome         -------YIFNPNNSIYKIKCLKTCSIVIQIQVKQLN---NGTYFNIRQI
+                                          . .  :  :   .  .    : .  *:         :  :
+
+NC_000012.12_human_genome       IICIDLFICLLSGPTHQDTGSLRKGTCWSCSILFPQHLECPALSRGSGKY
+NW_010224851.1_bird_genome      SANDAFLFHLPCVPTENQTGFLLQSSFLSQ----EEESLRPNLKFYYLRY
+NC_007136.7_fish_genome         LGKVYFTFKYKELSEIYLNTFKQMFKILKY-----NTKDLRNVHFYFIFQ
+                                     : :     .    .      .  .      :      :       
+
+NC_000012.12_human_genome       SPNATQSASCQGMSATTRYQVIKNLLEVGQALTFS---YWATGSVLHFMK
+NW_010224851.1_bird_genome      PESEKKEKHLVMISVRVNASLLVIKIKYNPLGPWTDPRPWPNRPIKKSNS
+NC_007136.7_fish_genome         NKQIKIILHLFNKIKIHPINNIINIISNLTIYVYVYIRKNSSNYIRLHQE
+                                  . .              . :   :.      :      ..  :    .
+
+NC_000012.12_human_genome       GRFSFIIK--------
+NW_010224851.1_bird_genome      LVAEYVFNCTIDL---
+NC_007136.7_fish_genome         LNDCLHLAHVIILTEK
+                                      :         

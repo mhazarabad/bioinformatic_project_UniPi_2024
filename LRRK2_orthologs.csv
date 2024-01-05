@@ -1,0 +1,2 @@
+Gene ID,Gene symbol,Description,Scientific name,Common name,RefSeq Transcript accessions,RefSeq Protein accessions,SPARCLE ID,Curation Status,RefseqSelect,Default sequence
+120892,LRRK2,leucine rich repeat kinase 2,Homo sapiens,human,NM_198578.4,NP_940980.4,11469382,curated,RefseqSelect,default-seq
